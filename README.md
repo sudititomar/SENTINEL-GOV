@@ -1,37 +1,84 @@
 # 🛡️ Sentinel-Gov
 
-**An AI watchdog that verifies government projects and releases payments only after proven, on-time work.**
+**A verification platform that ensures public money moves only after real work is proven.**
 
-Sentinel-Gov is an **agentic AI governance system** that prevents public fund misuse by shifting verification **before payment**, not after damage.
+Just like **UPI built trust into digital payments**, **Sentinel-Gov builds trust into public spending**.
 
 ---
 
 ## 🚨 The Problem
 
-Government projects often fail not because of lack of funding, but because:
-- Payments are released before work is verified
-- Manual inspections and delayed audits miss ground reality
-- Low-quality or incomplete work passes paper compliance
-- Accountability comes too late, after money is already spent
+Across roads, hospitals, schools, and food supply systems, the problem is the same:
 
-Once money moves, damage is irreversible.
+- Payments are released before verification  
+- Quality checks happen too late  
+- Audits explain damage instead of preventing it  
+
+Once money moves, accountability is lost.
 
 ---
 
 ## 💡 The Solution
 
-Sentinel-Gov introduces an **AI oversight layer** that:
-- Verifies real-world execution using geo-tagged evidence
-- Compares work quality against contract standards
-- Releases payments only when work is verified and compliant
-- Rewards honest, on-time contractors with performance incentives (5–7%)
+Sentinel-Gov introduces a **verification layer** between execution and payment.
 
-The system intervenes **before** public money moves.
+Before any public money is released, the system verifies:
+- Whether the work was actually done  
+- Whether it meets promised standards  
+
+If work is not proven or standards are not met, **payment freezes automatically**.
+
+No confrontation.  
+No discretion.  
+Just proof.
 
 ---
 
-## 🧠 Agentic AI Architecture
+## 🤖 Agentic AI System
 
-Sentinel-Gov is built as an **AGCI (Agent-Governed Computational Intelligence) server**.
+Sentinel-Gov is built using **agentic AI**, where each agent owns one irreversible decision:
 
+- **Planner Agent**  
+  Converts contracts into clear, measurable standards  
 
+- **Verification Agent**  
+  Verifies real-world evidence using time, location, and authenticity  
+
+- **Comparison Agent**  
+  Checks quality and compliance against contract standards  
+
+- **Payment Agent**  
+  Approves or freezes payment based on verified truth  
+
+This separation of responsibility prevents manipulation and ensures accountability.
+
+---
+
+## 🌍 Where Sentinel-Gov Works
+
+Because the verification flow is universal, Sentinel-Gov can be deployed across:
+
+- Infrastructure projects  
+- Government hospitals  
+- Schools and government canteens  
+- Public welfare and aid programs  
+
+**Same system. Different rules.**
+
+---
+
+## 🧠 Core Principle
+
+> **No proof, no payment.**
+
+---
+
+## 👥 Team
+
+**Team BUGS**
+
+---
+
+## 📜 License
+
+MIT License
