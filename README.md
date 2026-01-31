@@ -41,10 +41,10 @@ Sentinel-Gov is built using **agentic AI**, where each agent owns one irreversib
 - **Planner Agent**  
   Converts contracts into clear, measurable standards  
 
-- **Verification Agent**  
+- **Image Verification Agent**  
   Verifies real-world evidence using time, location, and authenticity  
 
-- **Comparison Agent**  
+- **Standard Comparison Agent**  
   Checks quality and compliance against contract standards  
 
 - **Payment Agent**  
